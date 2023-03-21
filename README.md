@@ -1,6 +1,6 @@
 # Multiple Choice Quiz
 
-The multipe choice quick made of HTML, CSS and JavaScript.
+The multipe choice quiz made of HTML, CSS and JavaScript.
 
 Link: https://sadat4.github.io/multip_choice_quiz/
 
