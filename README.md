@@ -22,8 +22,7 @@ resault page
 N/A
 
 ## Usage
-
-To use this multiple choice quiz have different ID's, Classes and functions both in HTML,CSS and JavaScript.
+This multiple choice quiz have different ID's, Classes and functions both in HTML,CSS and JavaScript.
 
 <img width="1421" alt="3" src="https://user-images.githubusercontent.com/123716093/226468670-d78edd89-adc5-4c7c-a508-18582429f813.png">
 
